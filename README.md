@@ -1,8 +1,8 @@
-👋 Hi, I’m @LeoTarpinWeb!
+Hi, I’m @LeoTarpinWeb! 👋
 
-👀 I’m interested in exploring the endless possibilities of web development.
-🌱 I’m currently learning new technologies and enhancing my skills to stay ahead in the ever-evolving web development landscape.
-💞️ I’m looking to collaborate on exciting projects that push the boundaries of innovation and creativity in the digital world.
+👀 Exploring web development possibilities.
+🌱 Learning and growing with HTML, CSS, JS, and PHP.
+💞️ Seeking exciting collaborations for innovative projects.
 📫 How to reach me? Feel free to connect with me via [l.tarpin@yahoo.fr] or check out my portfolio at [www.leotarpinweb.fr](http://ltarpin.alwaysdata.net/Portfolio/). Let's create something amazing together!
 
 <!---
