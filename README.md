@@ -1,10 +1,9 @@
-Hi, I’m @LeoTarpinWeb! 👋
+Salut, je suis @LeoTarpinWeb ! 👋
 
-👀 Exploring web development possibilities.
-🌱 Learning and growing with HTML, CSS, JS, and PHP.
-💞️ Seeking exciting collaborations for innovative projects.
-📫 How to reach me? Feel free to connect with me via [l.tarpin@yahoo.fr] or check out my portfolio at [www.leotarpinweb.fr](http://ltarpin.alwaysdata.net/Portfolio/). Let's create something amazing together!
-
+👀 J'explore les possibilités du développement web.
+🌱 J'apprends et je me perfectionne en HTML, CSS, JS et PHP.
+💞️ Je recherche des collaborations passionnantes pour des projets innovants.
+📫 Comment me contacter ? N'hésitez pas à me joindre via [l.tarpin@yahoo.fr] ou consultez mon portfolio sur [www.leotarpinweb.fr](http://ltarpin.alwaysdata.net/Portfolio/). Créons quelque chose d'incroyable ensemble !
 <!---
 LeoTarpinWeb/LeoTarpinWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
